@@ -11,6 +11,8 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 ## 🔨 Recent Pull Requests
 
 
+- [Add tool: GitHub Profile Summary Cards](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1012) on [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) (today)
+- [Add GitHub Action `readme-scribe` to Tools](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1011) on [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) (today)
 - [fix(plausible): Remove deprecated config options](https://github.com/truecharts/charts/pull/7810) on [truecharts/charts](https://github.com/truecharts/charts) (6 days ago)
 - [Update Kubernetes manifests](https://github.com/plausible/hosting/pull/67) on [plausible/hosting](https://github.com/plausible/hosting) (6 days ago)
 - [chore(postgresql): Bump common lib in postgresql](https://github.com/truecharts/charts/pull/3141) on [truecharts/charts](https://github.com/truecharts/charts) (8 months ago)
@@ -18,8 +20,6 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 - [fix(clickhouse): Use .data instead of .stringData to retreive clickhouse password](https://github.com/truecharts/library-charts/pull/167) on [truecharts/library-charts](https://github.com/truecharts/library-charts) (8 months ago)
 - [Add EditorConfig](https://github.com/truecharts/library-charts/pull/166) on [truecharts/library-charts](https://github.com/truecharts/library-charts) (8 months ago)
 - [fix(clickhouse): Upgrade common lib](https://github.com/truecharts/charts/pull/3136) on [truecharts/charts](https://github.com/truecharts/charts) (8 months ago)
-- [fix(clickhouse): Fix ClickHouse image mirror](https://github.com/truecharts/containers/pull/3978) on [truecharts/containers](https://github.com/truecharts/containers) (8 months ago)
-- [fix(clickhouse): Fix ClickHouse upstream repo](https://github.com/truecharts/charts/pull/3134) on [truecharts/charts](https://github.com/truecharts/charts) (8 months ago)
 
 ## 📜 Recent Blog Posts
 
