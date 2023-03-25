@@ -1,4 +1,4 @@
-# 🇨🇭 Greetings From Switzerland
+# 👋 Greetings from Switzerland
 
 When I was a first grader in the mid-90s, I got my first Windows 95 computer as a gift from my dad. Since then, I have been fascinated by computers and the Internet, giving me access to an ever-expanding universe. I’ve lived throughout the digital age since its dawn and I continue to be amazed at how technology is shaping our world ever faster, for better and for worse.
 
@@ -14,7 +14,7 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-## 📜 Recent Blog Posts
+## 📝 Recent Blog Posts
 
 {{range rss "https://schnerring.net/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
@@ -26,3 +26,7 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 - Twitter: <https://twitter.com/schnerringo>
 - Mastodon: <https://hachyderm.io/@schnerring>
 - LinkedIn: <https://www.linkedin.com/in/schnerring>
+
+## 📊 Stats
+
+![Michael Schnerring's GitHub Stats](https://github-readme-stats.vercel.app/api?username=schnerring&theme=transparent) ![Michael Schnerring's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=schnerring&layout=compact&theme=transparent)
