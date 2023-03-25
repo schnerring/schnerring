@@ -1,4 +1,4 @@
-# 🇨🇭 Greetings From Switzerland
+# 👋 Greetings from Switzerland
 
 When I was a first grader in the mid-90s, I got my first Windows 95 computer as a gift from my dad. Since then, I have been fascinated by computers and the Internet, giving me access to an ever-expanding universe. I’ve lived throughout the digital age since its dawn and I continue to be amazed at how technology is shaping our world ever faster, for better and for worse.
 
@@ -21,7 +21,7 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 - [Add EditorConfig](https://github.com/truecharts/library-charts/pull/166) on [truecharts/library-charts](https://github.com/truecharts/library-charts) (8 months ago)
 - [fix(clickhouse): Upgrade common lib](https://github.com/truecharts/charts/pull/3136) on [truecharts/charts](https://github.com/truecharts/charts) (8 months ago)
 
-## 📜 Recent Blog Posts
+## 📝 Recent Blog Posts
 
 
 - [Use OBS and ffmpeg to Create Modern GIF-like Screencasts](https://schnerring.net/blog/use-obs-and-ffmpeg-to-create-gif-like-screencasts/) (11 months ago)
@@ -36,3 +36,7 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 - Twitter: <https://twitter.com/schnerringo>
 - Mastodon: <https://hachyderm.io/@schnerring>
 - LinkedIn: <https://www.linkedin.com/in/schnerring>
+
+## 📊 Stats
+
+![Michael Schnerring's GitHub Stats](https://github-readme-stats.vercel.app/api?username=schnerring&theme=transparent) ![Michael Schnerring's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=schnerring&layout=compact&theme=transparent)
