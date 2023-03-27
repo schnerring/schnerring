@@ -11,8 +11,8 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 ## 🔨 Recent Pull Requests
 
 
-- [Add tool: GitHub Profile Summary Cards](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1012) on [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) (1 day ago)
-- [Add GitHub Action `readme-scribe` to Tools](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1011) on [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) (1 day ago)
+- [Add tool: GitHub Profile Summary Cards](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1012) on [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) (2 days ago)
+- [Add GitHub Action `readme-scribe` to Tools](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1011) on [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) (2 days ago)
 - [fix(plausible): Remove deprecated config options](https://github.com/truecharts/charts/pull/7810) on [truecharts/charts](https://github.com/truecharts/charts) (1 week ago)
 - [Update Kubernetes manifests](https://github.com/plausible/hosting/pull/67) on [plausible/hosting](https://github.com/plausible/hosting) (1 week ago)
 - [chore(postgresql): Bump common lib in postgresql](https://github.com/truecharts/charts/pull/3141) on [truecharts/charts](https://github.com/truecharts/charts) (8 months ago)
