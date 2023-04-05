@@ -11,7 +11,7 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 ## 🔨 Recent Pull Requests
 
 
-- [Add article: Checking Out Code Committed Within the Same GitHub Actions Workflow Run](https://github.com/schnerring/schnerring.github.io/pull/33) on [schnerring/schnerring.github.io](https://github.com/schnerring/schnerring.github.io) (2 days ago)
+- [Add article: Checking Out Code Committed Within the Same GitHub Actions Workflow Run](https://github.com/schnerring/schnerring.github.io/pull/33) on [schnerring/schnerring.github.io](https://github.com/schnerring/schnerring.github.io) (3 days ago)
 - [Add tool: GitHub Profile Summary Cards](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1012) on [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) (1 week ago)
 - [Add GitHub Action `readme-scribe` to Tools](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1011) on [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) (1 week ago)
 - [fix(plausible): Remove deprecated config options](https://github.com/truecharts/charts/pull/7810) on [truecharts/charts](https://github.com/truecharts/charts) (2 weeks ago)
@@ -24,7 +24,7 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 ## 📝 Recent Blog Posts
 
 
-- [Checking Out Code Committed Within the Same GitHub Actions Workflow Run](https://schnerring.net/blog/checking-out-code-committed-within-the-same-github-actions-workflow-run/) (2 days ago)
+- [Checking Out Code Committed Within the Same GitHub Actions Workflow Run](https://schnerring.net/blog/checking-out-code-committed-within-the-same-github-actions-workflow-run/) (3 days ago)
 - [Use OBS and ffmpeg to Create Modern GIF-like Screencasts](https://schnerring.net/blog/use-obs-and-ffmpeg-to-create-gif-like-screencasts/) (11 months ago)
 - [Use PowerShell to Request Quotes for Azure Reservations](https://schnerring.net/blog/use-powershell-to-request-quotes-for-azure-reservations/) (11 months ago)
 - [Automate Building Custom Windows Images For Azure Virtual Desktop With Packer And GitHub Actions](https://schnerring.net/blog/automate-building-custom-windows-images-for-azure-virtual-desktop-with-packer-and-github-actions/) (1 year ago)
