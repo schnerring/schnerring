@@ -11,6 +11,7 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 ## 🔨 Recent Pull Requests
 
 
+- [Support STJ-native polymorphic type hierarchy serialization](https://github.com/RicoSuter/NJsonSchema/pull/1595) on [RicoSuter/NJsonSchema](https://github.com/RicoSuter/NJsonSchema) (today)
 - [Fix broken markdown link in Schema Feature Extensions docs](https://github.com/JasperFx/marten/pull/2584) on [JasperFx/marten](https://github.com/JasperFx/marten) (3 days ago)
 - [Fix broken links in docs to Lamar, Marten, and Oakton](https://github.com/JasperFx/wolverine/pull/355) on [JasperFx/wolverine](https://github.com/JasperFx/wolverine) (1 week ago)
 - [Add article: Checking Out Code Committed Within the Same GitHub Actions Workflow Run](https://github.com/schnerring/schnerring.github.io/pull/33) on [schnerring/schnerring.github.io](https://github.com/schnerring/schnerring.github.io) (1 month ago)
@@ -19,7 +20,6 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 - [fix(plausible): Remove deprecated config options](https://github.com/truecharts/charts/pull/7810) on [truecharts/charts](https://github.com/truecharts/charts) (1 month ago)
 - [Update Kubernetes manifests](https://github.com/plausible/hosting/pull/67) on [plausible/hosting](https://github.com/plausible/hosting) (1 month ago)
 - [chore(postgresql): Bump common lib in postgresql](https://github.com/truecharts/charts/pull/3141) on [truecharts/charts](https://github.com/truecharts/charts) (10 months ago)
-- [fix(clickhouse): Upgrade common lib](https://github.com/truecharts/charts/pull/3138) on [truecharts/charts](https://github.com/truecharts/charts) (10 months ago)
 
 ## 📝 Recent Blog Posts
 
