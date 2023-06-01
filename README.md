@@ -11,11 +11,11 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 ## 🔨 Recent Pull Requests
 
 
-- [Fix boolean `show_if` conditionals](https://github.com/truecharts/charts/pull/9218) on [truecharts/charts](https://github.com/truecharts/charts) (3 days ago)
+- [Fix boolean `show_if` conditionals](https://github.com/truecharts/charts/pull/9218) on [truecharts/charts](https://github.com/truecharts/charts) (4 days ago)
 - [Add support for STJ-native polymorphic `JsonDerivedType` and `JsonPolymorphic` attributes to C# client/schema generator](https://github.com/RicoSuter/NJsonSchema/pull/1595) on [RicoSuter/NJsonSchema](https://github.com/RicoSuter/NJsonSchema) (2 weeks ago)
 - [Fix broken markdown link in Schema Feature Extensions docs](https://github.com/JasperFx/marten/pull/2584) on [JasperFx/marten](https://github.com/JasperFx/marten) (3 weeks ago)
 - [Fix broken links in docs to Lamar, Marten, and Oakton](https://github.com/JasperFx/wolverine/pull/355) on [JasperFx/wolverine](https://github.com/JasperFx/wolverine) (3 weeks ago)
-- [Add article: Checking Out Code Committed Within the Same GitHub Actions Workflow Run](https://github.com/schnerring/schnerring.github.io/pull/33) on [schnerring/schnerring.github.io](https://github.com/schnerring/schnerring.github.io) (1 month ago)
+- [Add article: Checking Out Code Committed Within the Same GitHub Actions Workflow Run](https://github.com/schnerring/schnerring.github.io/pull/33) on [schnerring/schnerring.github.io](https://github.com/schnerring/schnerring.github.io) (2 months ago)
 - [Add tool: GitHub Profile Summary Cards](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1012) on [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) (2 months ago)
 - [Add GitHub Action `readme-scribe` to Tools](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1011) on [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) (2 months ago)
 - [fix(plausible): Remove deprecated config options](https://github.com/truecharts/charts/pull/7810) on [truecharts/charts](https://github.com/truecharts/charts) (2 months ago)
@@ -24,7 +24,7 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 ## 📝 Recent Blog Posts
 
 
-- [Checking Out Code Committed Within the Same GitHub Actions Workflow Run](https://schnerring.net/blog/checking-out-code-committed-within-the-same-github-actions-workflow-run/) (1 month ago)
+- [Checking Out Code Committed Within the Same GitHub Actions Workflow Run](https://schnerring.net/blog/checking-out-code-committed-within-the-same-github-actions-workflow-run/) (2 months ago)
 - [Use OBS and ffmpeg to Create Modern GIF-like Screencasts](https://schnerring.net/blog/use-obs-and-ffmpeg-to-create-gif-like-screencasts/) (1 year ago)
 - [Use PowerShell to Request Quotes for Azure Reservations](https://schnerring.net/blog/use-powershell-to-request-quotes-for-azure-reservations/) (1 year ago)
 - [Automate Building Custom Windows Images For Azure Virtual Desktop With Packer And GitHub Actions](https://schnerring.net/blog/automate-building-custom-windows-images-for-azure-virtual-desktop-with-packer-and-github-actions/) (1 year ago)
