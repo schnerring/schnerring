@@ -11,6 +11,7 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 ## 🔨 Recent Pull Requests
 
 
+- [fix(clusterissuer): let users provide raw base64-encoded CA .crt and key values via Web GUI](https://github.com/truecharts/charts/pull/9594) on [truecharts/charts](https://github.com/truecharts/charts) (today)
 - [fix(clusterissuer): Increase `max_length` for crt/key Web GUI fields](https://github.com/truecharts/charts/pull/9447) on [truecharts/charts](https://github.com/truecharts/charts) (6 days ago)
 - [Fix boolean `show_if` conditionals](https://github.com/truecharts/charts/pull/9218) on [truecharts/charts](https://github.com/truecharts/charts) (2 weeks ago)
 - [Add support for STJ-native polymorphic `JsonDerivedType` and `JsonPolymorphic` attributes to C# client/schema generator](https://github.com/RicoSuter/NJsonSchema/pull/1595) on [RicoSuter/NJsonSchema](https://github.com/RicoSuter/NJsonSchema) (1 month ago)
@@ -19,7 +20,6 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 - [Add article: Checking Out Code Committed Within the Same GitHub Actions Workflow Run](https://github.com/schnerring/schnerring.github.io/pull/33) on [schnerring/schnerring.github.io](https://github.com/schnerring/schnerring.github.io) (2 months ago)
 - [Add tool: GitHub Profile Summary Cards](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1012) on [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) (2 months ago)
 - [Add GitHub Action `readme-scribe` to Tools](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1011) on [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) (2 months ago)
-- [fix(plausible): Remove deprecated config options](https://github.com/truecharts/charts/pull/7810) on [truecharts/charts](https://github.com/truecharts/charts) (2 months ago)
 
 ## 📝 Recent Blog Posts
 
