@@ -11,6 +11,7 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 ## 🔨 Recent Pull Requests
 
 
+- [Add support for `JsonPolymorphic` and `JsonDerivedType` attributes to `Swashbuckle.AspNetCore.Annotations` for .NET7 and later](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/2671) on [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) (today)
 - [fix(clusterissuer): let users provide raw base64-encoded CA .crt and .key values via Web GUI](https://github.com/truecharts/charts/pull/9594) on [truecharts/charts](https://github.com/truecharts/charts) (4 days ago)
 - [fix(clusterissuer): Increase `max_length` for crt/key Web GUI fields](https://github.com/truecharts/charts/pull/9447) on [truecharts/charts](https://github.com/truecharts/charts) (1 week ago)
 - [Fix boolean `show_if` conditionals](https://github.com/truecharts/charts/pull/9218) on [truecharts/charts](https://github.com/truecharts/charts) (2 weeks ago)
