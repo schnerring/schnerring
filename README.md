@@ -11,6 +11,7 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 ## 🔨 Recent Pull Requests
 
 
+- [💚Move tests to net7 to fix build](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/2672) on [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) (today)
 - [Add support for `JsonPolymorphic` and `JsonDerivedType` attributes to `Swashbuckle.AspNetCore.Annotations` for .NET7 and later](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/2671) on [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) (today)
 - [fix(clusterissuer): let users provide raw base64-encoded CA .crt and .key values via Web GUI](https://github.com/truecharts/charts/pull/9594) on [truecharts/charts](https://github.com/truecharts/charts) (4 days ago)
 - [fix(clusterissuer): Increase `max_length` for crt/key Web GUI fields](https://github.com/truecharts/charts/pull/9447) on [truecharts/charts](https://github.com/truecharts/charts) (1 week ago)
@@ -20,7 +21,6 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 - [Fix broken links in docs to Lamar, Marten, and Oakton](https://github.com/JasperFx/wolverine/pull/355) on [JasperFx/wolverine](https://github.com/JasperFx/wolverine) (1 month ago)
 - [Add article: Checking Out Code Committed Within the Same GitHub Actions Workflow Run](https://github.com/schnerring/schnerring.github.io/pull/33) on [schnerring/schnerring.github.io](https://github.com/schnerring/schnerring.github.io) (2 months ago)
 - [Add tool: GitHub Profile Summary Cards](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1012) on [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) (2 months ago)
-- [Add GitHub Action `readme-scribe` to Tools](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1011) on [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) (2 months ago)
 
 ## 📝 Recent Blog Posts
 
