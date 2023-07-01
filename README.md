@@ -20,12 +20,12 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 - [Add support for STJ-native polymorphic `JsonDerivedType` and `JsonPolymorphic` attributes to C# client/schema generator](https://github.com/RicoSuter/NJsonSchema/pull/1595) on [RicoSuter/NJsonSchema](https://github.com/RicoSuter/NJsonSchema) (1 month ago)
 - [Fix broken markdown link in Schema Feature Extensions docs](https://github.com/JasperFx/marten/pull/2584) on [JasperFx/marten](https://github.com/JasperFx/marten) (1 month ago)
 - [Fix broken links in docs to Lamar, Marten, and Oakton](https://github.com/JasperFx/wolverine/pull/355) on [JasperFx/wolverine](https://github.com/JasperFx/wolverine) (1 month ago)
-- [Add article: Checking Out Code Committed Within the Same GitHub Actions Workflow Run](https://github.com/schnerring/schnerring.github.io/pull/33) on [schnerring/schnerring.github.io](https://github.com/schnerring/schnerring.github.io) (2 months ago)
+- [Add article: Checking Out Code Committed Within the Same GitHub Actions Workflow Run](https://github.com/schnerring/schnerring.github.io/pull/33) on [schnerring/schnerring.github.io](https://github.com/schnerring/schnerring.github.io) (3 months ago)
 
 ## 📝 Recent Blog Posts
 
 
-- [Checking Out Code Committed Within the Same GitHub Actions Workflow Run](https://schnerring.net/blog/checking-out-code-committed-within-the-same-github-actions-workflow-run/) (2 months ago)
+- [Checking Out Code Committed Within the Same GitHub Actions Workflow Run](https://schnerring.net/blog/checking-out-code-committed-within-the-same-github-actions-workflow-run/) (3 months ago)
 - [Use OBS and ffmpeg to Create Modern GIF-like Screencasts](https://schnerring.net/blog/use-obs-and-ffmpeg-to-create-gif-like-screencasts/) (1 year ago)
 - [Use PowerShell to Request Quotes for Azure Reservations](https://schnerring.net/blog/use-powershell-to-request-quotes-for-azure-reservations/) (1 year ago)
 - [Automate Building Custom Windows Images For Azure Virtual Desktop With Packer And GitHub Actions](https://schnerring.net/blog/automate-building-custom-windows-images-for-azure-virtual-desktop-with-packer-and-github-actions/) (1 year ago)
