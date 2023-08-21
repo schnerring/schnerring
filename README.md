@@ -29,7 +29,7 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 - [Use OBS and ffmpeg to Create Modern GIF-like Screencasts](https://schnerring.net/blog/use-obs-and-ffmpeg-to-create-gif-like-screencasts/) (1 year ago)
 - [Use PowerShell to Request Quotes for Azure Reservations](https://schnerring.net/blog/use-powershell-to-request-quotes-for-azure-reservations/) (1 year ago)
 - [Automate Building Custom Windows Images For Azure Virtual Desktop With Packer And GitHub Actions](https://schnerring.net/blog/automate-building-custom-windows-images-for-azure-virtual-desktop-with-packer-and-github-actions/) (1 year ago)
-- [Deploy Azure Virtual Desktop (AVD) Using Terraform and Azure Active Directory Domain Services (AADDS)](https://schnerring.net/blog/deploy-azure-virtual-desktop-avd-using-terraform-and-azure-active-directory-domain-services-aadds/) (1 year ago)
+- [Deploy Azure Virtual Desktop (AVD) Using Terraform and Azure Active Directory Domain Services (AADDS)](https://schnerring.net/blog/deploy-azure-virtual-desktop-avd-using-terraform-and-azure-active-directory-domain-services-aadds/) (2 years ago)
 
 ## 📫 How to Reach Me
 
