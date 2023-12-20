@@ -11,6 +11,7 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 ## 🔨 Recent Pull Requests
 
 
+- [Fix docs: links and minor typos](https://github.com/JasperFx/marten/pull/2869) on [JasperFx/marten](https://github.com/JasperFx/marten) (today)
 - [Docs: fix dead GitHub link](https://github.com/JasperFx/wolverine/pull/530) on [JasperFx/wolverine](https://github.com/JasperFx/wolverine) (3 months ago)
 - [Docs: consolidate piece selection algorithm from docs with actual implementation](https://github.com/casey/intermodal/pull/524) on [casey/intermodal](https://github.com/casey/intermodal) (3 months ago)
 - [fix(plausible): migrate to new common chart and upgrade to v2](https://github.com/truecharts/charts/pull/11186) on [truecharts/charts](https://github.com/truecharts/charts) (4 months ago)
@@ -20,7 +21,6 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 - [Add Marten end-to-end test using `MartenOps`](https://github.com/JasperFx/wolverine/pull/427) on [JasperFx/wolverine](https://github.com/JasperFx/wolverine) (6 months ago)
 - [💚Move tests to net7 to fix build](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/2672) on [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) (6 months ago)
 - [Add support for `JsonPolymorphic` and `JsonDerivedType` attributes to `Swashbuckle.AspNetCore.Annotations` for .NET7 and later](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/2671) on [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) (6 months ago)
-- [fix(clusterissuer): let users provide raw base64-encoded CA .crt and .key values via Web GUI](https://github.com/truecharts/charts/pull/9594) on [truecharts/charts](https://github.com/truecharts/charts) (6 months ago)
 
 ## 📝 Recent Blog Posts
 
