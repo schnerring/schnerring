@@ -18,8 +18,8 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 - [Fix docs: links and minor typos](https://github.com/JasperFx/marten/pull/2869) on [JasperFx/marten](https://github.com/JasperFx/marten) (4 months ago)
 - [Docs: fix dead GitHub link](https://github.com/JasperFx/wolverine/pull/530) on [JasperFx/wolverine](https://github.com/JasperFx/wolverine) (7 months ago)
 - [Docs: consolidate piece selection algorithm from docs with actual implementation](https://github.com/casey/intermodal/pull/524) on [casey/intermodal](https://github.com/casey/intermodal) (8 months ago)
-- [fix(plausible): migrate to new common chart and upgrade to v2](https://github.com/truecharts/charts/pull/11186) on [truecharts/charts](https://github.com/truecharts/charts) (8 months ago)
-- [Fix typo in self-hosting docs](https://github.com/plausible/docs/pull/419) on [plausible/docs](https://github.com/plausible/docs) (8 months ago)
+- [fix(plausible): migrate to new common chart and upgrade to v2](https://github.com/truecharts/charts/pull/11186) on [truecharts/charts](https://github.com/truecharts/charts) (9 months ago)
+- [Fix typo in self-hosting docs](https://github.com/plausible/docs/pull/419) on [plausible/docs](https://github.com/plausible/docs) (9 months ago)
 - [fix(stash): add `/blobs` PVC storage](https://github.com/truecharts/charts/pull/10852) on [truecharts/charts](https://github.com/truecharts/charts) (9 months ago)
 
 ## 📝 Recent Blog Posts
