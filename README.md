@@ -34,7 +34,7 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 ## 📫 How to Reach Me
 
 - Web: <https://schnerring.net/>
-- Twitter: <https://twitter.com/schnerringo>
+- X: <https://x.com/schnerringo>
 - Mastodon: <https://hachyderm.io/@schnerring>
 - LinkedIn: <https://www.linkedin.com/in/schnerring>
 
