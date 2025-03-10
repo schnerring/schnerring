@@ -11,6 +11,7 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 ## 🔨 Recent Pull Requests
 
 
+- [chore: fix small mistake in parameters docs sample](https://github.com/nuke-build/nuke/pull/1528) on [nuke-build/nuke](https://github.com/nuke-build/nuke) (today)
 - [Fix dead link in docs](https://github.com/JasperFx/wolverine/pull/1274) on [JasperFx/wolverine](https://github.com/JasperFx/wolverine) (3 weeks ago)
 - [Access FlexSearch static methods via bundled export (static class methods of FlexSearch)](https://github.com/thuliteio/doks-core/pull/105) on [thuliteio/doks-core](https://github.com/thuliteio/doks-core) (6 months ago)
 - [Add support for STJ-native C# code gen](https://github.com/RicoSuter/NSwag/pull/4782) on [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) (1 year ago)
@@ -20,7 +21,6 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 - [Fix docs: links and minor typos](https://github.com/JasperFx/marten/pull/2869) on [JasperFx/marten](https://github.com/JasperFx/marten) (1 year ago)
 - [Docs: fix dead GitHub link](https://github.com/JasperFx/wolverine/pull/530) on [JasperFx/wolverine](https://github.com/JasperFx/wolverine) (2 years ago)
 - [Docs: consolidate piece selection algorithm from docs with actual implementation](https://github.com/casey/intermodal/pull/524) on [casey/intermodal](https://github.com/casey/intermodal) (2 years ago)
-- [fix(plausible): migrate to new common chart and upgrade to v2](https://github.com/truecharts/public/pull/11186) on [truecharts/public](https://github.com/truecharts/public) (2 years ago)
 
 ## 📝 Recent Blog Posts
 
