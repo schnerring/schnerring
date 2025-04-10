@@ -26,8 +26,8 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 
 
 - [Checking Out Code Committed Within the Same GitHub Actions Workflow Run](https://schnerring.net/blog/checking-out-code-committed-within-the-same-github-actions-workflow-run/) (2 years ago)
-- [Use OBS and ffmpeg to Create Modern GIF-like Screencasts](https://schnerring.net/blog/use-obs-and-ffmpeg-to-create-gif-like-screencasts/) (2 years ago)
-- [Use PowerShell to Request Quotes for Azure Reservations](https://schnerring.net/blog/use-powershell-to-request-quotes-for-azure-reservations/) (2 years ago)
+- [Use OBS and ffmpeg to Create Modern GIF-like Screencasts](https://schnerring.net/blog/use-obs-and-ffmpeg-to-create-gif-like-screencasts/) (3 years ago)
+- [Use PowerShell to Request Quotes for Azure Reservations](https://schnerring.net/blog/use-powershell-to-request-quotes-for-azure-reservations/) (3 years ago)
 - [Automate Building Custom Windows Images For Azure Virtual Desktop With Packer And GitHub Actions](https://schnerring.net/blog/automate-building-custom-windows-images-for-azure-virtual-desktop-with-packer-and-github-actions/) (3 years ago)
 - [Deploy Azure Virtual Desktop (AVD) Using Terraform and Azure Active Directory Domain Services (AADDS)](https://schnerring.net/blog/deploy-azure-virtual-desktop-avd-using-terraform-and-azure-active-directory-domain-services-aadds/) (3 years ago)
 
