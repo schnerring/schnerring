@@ -1,3 +1,24 @@
+Hi ser!
+
+I don't use mastodon or X, so I thought I'd just bug you here ;-)
+
+I'm looking at this:
+
+https://schnerring.net/blog/install-qbittorrent-jackett-lidarr-radarr-sonarr-and-plex-inside-truenas-jails/
+
+
+Is this still your stack, or would you do it differently these days?
+
+I've been looking at YAMS, but I had stuff like this on TrueNAS (CORE) in the past... after a traumatic experience with TrueNAS (SCALE), I've gone back to FreeBSD (Vanilla). I'm weighing up learning Bastille, doing it your way, going back to CORE, trying YAMS in a vm... etc... 
+
+
+Any experience (update) from your side would be most welcome!
+
+
+Many thanks,
+Dan.
+
+
 # 👋 Greetings from Switzerland
 
 When I was a first grader in the mid-90s, I got my first Windows 95 computer as a gift from my dad. Since then, I have been fascinated by computers and the Internet, giving me access to an ever-expanding universe. I’ve lived throughout the digital age since its dawn and I continue to be amazed at how technology is shaping our world ever faster, for better and for worse.
