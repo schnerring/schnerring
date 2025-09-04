@@ -11,6 +11,7 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 ## 🔨 Recent Pull Requests
 
 
+- [docs: improve backup instructions; closes #1613](https://github.com/umputun/remark42/pull/1947) on [umputun/remark42](https://github.com/umputun/remark42) (today)
 - [chore: fix small mistake in parameters docs sample](https://github.com/nuke-build/nuke/pull/1528) on [nuke-build/nuke](https://github.com/nuke-build/nuke) (5 months ago)
 - [Fix dead link in docs](https://github.com/JasperFx/wolverine/pull/1274) on [JasperFx/wolverine](https://github.com/JasperFx/wolverine) (6 months ago)
 - [Access FlexSearch static methods via bundled export (static class methods of FlexSearch)](https://github.com/thuliteio/doks-core/pull/105) on [thuliteio/doks-core](https://github.com/thuliteio/doks-core) (1 year ago)
@@ -20,7 +21,6 @@ On [my website](https://schnerring.net), I share my thoughts and notes about thi
 - [[WIP] Add TodoWebService.NSwag sample project](https://github.com/JasperFx/wolverine/pull/684) on [JasperFx/wolverine](https://github.com/JasperFx/wolverine) (2 years ago)
 - [Fix docs: links and minor typos](https://github.com/JasperFx/marten/pull/2869) on [JasperFx/marten](https://github.com/JasperFx/marten) (2 years ago)
 - [Docs: fix dead GitHub link](https://github.com/JasperFx/wolverine/pull/530) on [JasperFx/wolverine](https://github.com/JasperFx/wolverine) (2 years ago)
-- [Docs: consolidate piece selection algorithm from docs with actual implementation](https://github.com/casey/intermodal/pull/524) on [casey/intermodal](https://github.com/casey/intermodal) (2 years ago)
 
 ## 📝 Recent Blog Posts
 
